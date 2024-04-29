@@ -11,3 +11,5 @@ This project presents my implementation of the Double Q-Learning algorithm with 
 - **Performance Analysis**: Comprehensive analysis of the agent's learning journey, including exploration rates, learning rate adjustments, and reward accumulation.
 
 The environment was provided by the lecturer as a part of the assignment. 
+## Results
+![The comparison of my algorithm to Q-Learning](results_img.png)
