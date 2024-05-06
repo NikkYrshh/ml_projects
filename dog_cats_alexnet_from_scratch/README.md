@@ -4,7 +4,7 @@ This project demonstrates an implementation of the AlexNet architecture from scr
 
 ## Overview
 
-- **Model:** AlexNet with minor modifications
+- **Model:** AlexNet implemented from scratch in Keras with minor modifications
 - **Dataset:** Dogs vs. Cats (25,000 images)
 - **Objective:** Binary classification
 - **Accuracy:** Achieved around 92% training accuracy, 88% validation accuracy and 88% test accuracy
@@ -15,3 +15,5 @@ This project demonstrates an implementation of the AlexNet architecture from scr
 - Applied data augmentation techniques and fine-tuned hyperparameters.
 - Demonstrated strong performance on a limited dataset of 20,000 images.
 
+## Results
+[Results](results.png)
