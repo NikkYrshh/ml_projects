@@ -16,4 +16,4 @@ This project demonstrates an implementation of the AlexNet architecture from scr
 - Demonstrated strong performance on a limited dataset of 20,000 images.
 
 ## Results
-[Results](results.png)
+![Results](results.png)
