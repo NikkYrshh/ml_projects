@@ -17,7 +17,8 @@ This project demonstrates an implementation of the InceptionV3 architecture for 
 
 ## Results
 
-Test Loss: 51.91027069091797
-Test Age MAE: 5.030325412750244
-Test Gender Accuracy: 0.8544917702674866
+- Test Loss: 51.910
+- Test Age MAE: 5.030
+- Test Gender Accuracy: 0.854
+
 ![Results](download.png)
